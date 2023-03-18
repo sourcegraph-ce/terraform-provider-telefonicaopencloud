@@ -11,7 +11,7 @@ package telefonicaopencloud
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 
 	"github.com/hashicorp/terraform/helper/schema"
