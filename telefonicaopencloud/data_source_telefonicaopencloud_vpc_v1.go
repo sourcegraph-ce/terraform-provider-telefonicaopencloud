@@ -2,7 +2,7 @@ package telefonicaopencloud
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/huaweicloud/golangsdk/openstack/networking/v1/vpcs"
 
