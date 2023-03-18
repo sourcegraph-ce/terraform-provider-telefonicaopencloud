@@ -6,7 +6,7 @@ import (
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/huaweicloud/golangsdk"
 	"github.com/huaweicloud/golangsdk/openstack/networking/v2/peerings"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 )
 
